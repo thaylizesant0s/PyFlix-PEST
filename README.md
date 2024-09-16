@@ -22,17 +22,33 @@ Busca Parcial: Ao buscar filmes, você não precisa digitar o título completo. 
 
 ## Decisões de Design Tomadas
 
-Simplicidade e Intuição: Apresenta opções numeradas de 1 a 6, facilitando a navegação pelos usuários.
+## **Design do Menu**
 
-Interação Direta: Opções claramente definidas para cada funcionalidade:
+- **Simplicidade e Intuição**: 
+  - O menu é estruturado de forma a apresentar opções numeradas de **1 a 6**, permitindo uma navegação rápida e intuitiva. 
+  - Isso ajuda os usuários a entenderem imediatamente quais opções estão disponíveis.
 
-1: Adicionar Filme
-2: Listar Filmes
-3: Buscar Filmes
-4: Atualizar Filme
-5: Remover Filme
-6: Sair
-Tratamento de Entradas Inválidas: Exibe uma mensagem clara quando uma opção inválida é escolhida, retornando ao menu principal.
+- **Interação Direta**: 
+  - Cada opção do menu é claramente definida para corresponder a uma funcionalidade específica:
+    - **1**: Adicionar Filme
+    - **2**: Listar Filmes
+    - **3**: Buscar Filmes
+    - **4**: Atualizar Filme
+    - **5**: Remover Filme
+    - **6**: Sair
+  - Essa abordagem elimina confusões e permite que os usuários selecionem rapidamente a ação desejada.
 
-Acessibilidade: Design acessível para usuários de todos os níveis, permitindo fácil compreensão e uso sem necessidade de conhecimento técnico avançado.
+- **Tratamento de Entradas Inválidas**: 
+  - O sistema é projetado para lidar com entradas inválidas de maneira eficaz, exibindo mensagens claras e informativas.
+  - Quando uma opção fora do intervalo é escolhida, o menu retorna automaticamente ao estado original, evitando travamentos e mantendo a fluidez da interação.
+
+- **Acessibilidade**: 
+  - O design é amigável e acessível a usuários de todos os níveis de experiência, desde novatos até usuários mais avançados.
+  - Não é necessário ter um conhecimento técnico prévio, pois as instruções são simples e diretas, facilitando a navegação e o uso do sistema.
+
+- **Consistência Visual**:
+  - O menu mantém uma estética visual consistente, com espaçamento adequado e formatação clara, o que contribui para uma experiência de usuário agradável.
+  - O uso de texto em caixa alta e numeração facilita a leitura e a seleção de opções.
+
+
 
