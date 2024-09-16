@@ -22,7 +22,7 @@ PyFlix é um sistema de gerenciamento de filmes desenvolvido em Python. Ele perm
 - **Acentuação**: 
   - A busca de filmes também leva em consideração a acentuação. 
   - Caso o título do filme tenha acentos, eles devem ser digitados corretamente para que o filme seja encontrado.
-  - Por exemplo, **"Tropa de Elite"** e **"Tropa de Elite"** serão tratados como o mesmo título, mas **"Trope de Elite"** não será reconhecido.
+  - Por exemplo, **"Trôpa de Elite"** e **"Tropa de Elite"** serão tratados como o mesmo título, mas **"Trope de Elite"** não será reconhecido, pois são titulos diferentes.
 
 - **Tratamento de Erros**: 
   - O sistema foi desenvolvido com mensagens claras para informar o usuário sobre possíveis entradas inválidas, como:
