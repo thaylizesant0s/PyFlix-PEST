@@ -10,8 +10,15 @@ PyFlix é um sistema de gerenciamento de filmes desenvolvido em Python. Ele perm
 - **Atualizar Filme**: Atualiza as informações de um filme já cadastrado.
 - **Remover Filme**: Remove um filme do catálogo.
 
-  ## Instruções de Execução
+# Instruções de Execução
 
 Para executar o PyFlix, siga os passos abaixo:
 
-git clone https://github.com/thaylizesant0s/pyflix.git
+1. **Copie o código do arquivo principal**:
+   Acesse o código do arquivo principal [Pyflix.py aqui](https://github.com/thaylizesant0s/Pyflix/blob/main/Pyflix.py) e copie todo o código.
+
+2. **Cole o código em um novo arquivo no VSCode**:
+   Abra o Visual Studio Code e cole o código em um novo arquivo.
+
+3. **Execute o código no terminal**:
+   No terminal integrado do VSCode, execute o código.
