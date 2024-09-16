@@ -22,16 +22,8 @@ Busca Parcial: Ao buscar filmes, você não precisa digitar o título completo. 
 
 ## Decisões de Design Tomadas
 
-Estrutura do Código
-O sistema foi projetado de forma modular, com cada função correspondendo a uma operação específica (adicionar, listar, buscar, atualizar, remover filmes), facilitando a manutenção e a futura adição de novas funcionalidades.
-
 Design do Menu
-O menu principal do PyFlix foi desenvolvido com uma abordagem simples e clara para garantir uma experiência de usuário intuitiva e acessível. As opções são numeradas de 1 a 6, e cada número corresponde a uma ação específica (adicionar, listar, buscar, atualizar, remover filmes ou sair do programa).
-
-Interatividade e Facilidade de Navegação
-Simplicidade: O design minimalista do menu é intencional. Ele foi pensado para usuários que podem não ter familiaridade com interfaces de texto, facilitando a interação sem sobrecarregar o usuário com informações desnecessárias.
-Clareza nas Opções: Cada opção do menu é descrita de forma direta, como "Adicionar Filme" ou "Buscar Filme", o que ajuda o usuário a saber exatamente o que cada ação fará sem ambiguidade.
-Prevenção de Erros: O sistema trata entradas incorretas, como a escolha de um número fora das opções disponíveis, exibindo a mensagem "Opção inválida! Tente novamente". Esse feedback imediato evita que o usuário fique confuso e permite uma correção rápida, sem interromper a experiência.
-Acessibilidade: Ao usar apenas números para seleção, o menu é acessível a uma ampla variedade de usuários, independentemente de sua experiência com sistemas interativos. Isso também permite uma navegação rápida e direta, sem complicações.
-Interface do Usuário
-A interface é totalmente baseada em texto, proporcionando um ambiente familiar para quem usa terminais de comando, como desenvolvedores ou estudantes. Ao manter o foco em texto puro, o PyFlix consegue ser leve e eficiente, rodando em praticamente qualquer ambiente com suporte a Python.
+Simplicidade e Intuição: O menu apresenta opções numeradas de 1 a 6, facilitando a navegação pelos usuários.
+Interação Direta: As opções são claramente definidas para cada funcionalidade (adicionar, listar, buscar, atualizar, remover filmes e sair).
+Tratamento de Entradas Inválidas: Quando uma opção inválida é escolhida, o sistema exibe uma mensagem clara e retorna ao menu principal.
+Acessibilidade: O design é acessível para usuários de todos os níveis, permitindo fácil compreensão e uso sem necessidade de conhecimento técnico avançado.
