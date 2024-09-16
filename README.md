@@ -23,7 +23,11 @@ Busca Parcial: Ao buscar filmes, você não precisa digitar o título completo. 
 ## Decisões de Design Tomadas
 
 Design do Menu
+
 Simplicidade e Intuição: O menu apresenta opções numeradas de 1 a 6, facilitando a navegação pelos usuários.
+
 Interação Direta: As opções são claramente definidas para cada funcionalidade (adicionar, listar, buscar, atualizar, remover filmes e sair).
+
 Tratamento de Entradas Inválidas: Quando uma opção inválida é escolhida, o sistema exibe uma mensagem clara e retorna ao menu principal.
+
 Acessibilidade: O design é acessível para usuários de todos os níveis, permitindo fácil compreensão e uso sem necessidade de conhecimento técnico avançado.
