@@ -29,7 +29,7 @@ Busca Parcial: Ao buscar filmes, você não precisa digitar o título completo. 
   - Isso ajuda os usuários a entenderem imediatamente quais opções estão disponíveis.
 
 - **Interação Direta**: 
-  - Cada opção do menu é claramente definida para corresponder a uma funcionalidade específica:
+- Cada opção do menu é claramente definida para corresponder a uma funcionalidade específica:
     - **1**: Adicionar Filme
     - **2**: Listar Filmes
     - **3**: Buscar Filmes
