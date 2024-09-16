@@ -15,7 +15,7 @@ PyFlix é um sistema de gerenciamento de filmes desenvolvido em Python. Ele perm
 Para executar o PyFlix, siga os passos abaixo:
 
 1. **Copie o código do arquivo principal**:
-   Acesse o código do arquivo principal [Pyflix.py aqui](https://github.com/thaylizesant0s/Pyflix/blob/main/Pyflix.py) e copie todo o código.
+   Acesse o código do arquivo principal aqui: [Pyflix.py](https://github.com/thaylizesant0s/Pyflix/blob/main/Pyflix.py) e copie todo o código.
 
 2. **Cole o código em um novo arquivo no VSCode**:
    Abra o Visual Studio Code e cole o código em um novo arquivo.
