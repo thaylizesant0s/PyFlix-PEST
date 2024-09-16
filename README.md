@@ -14,7 +14,4 @@ PyFlix é um sistema de gerenciamento de filmes desenvolvido em Python. Ele perm
 
 Para executar o PyFlix, siga os passos abaixo:
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seuusuario/pyflix.git
-   cd pyflix
+git clone https://github.com/thaylizesant0s/pyflix.git
